@@ -25,6 +25,12 @@ Install dependencies:
 sudo apt install ros-humble-rclpy ros-humble-sensor-msgs ros-humble-geometry-msgs
 ```
 
+Download the sdk from https://www.movella.com/support/software-documentation
+
+Unzip it, run mtsdk_*.sh
+
+Then go to /usr/local/xsens/python and pip install the relative python version .whl.
+
 ---
 
 ## 🛠️ Build and Run
